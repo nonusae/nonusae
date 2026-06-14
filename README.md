@@ -1,8 +1,6 @@
-____  ____  ____  __  ___________ ____ 
-  / __ \/ __ \/ __ \/ / / / ___/ __ `/ _ \
- / / / / /_/ / / / / /_/ (__  ) /_/ /  __/
-/_/ /_/\____/_/ /_/\__,_/____/\__,_/\___/
+Natthakit Iewprasert
 
-# Natthakit Iewprasert
-
-Typical Software engineer based in Bangkok.
+Software engineer based in Bangkok 🇹🇭 — building full-stack web products
+since 2018, with most of that depth in Ruby on Rails. Right now I'm
+refocusing: broadening into the TypeScript ecosystem, AI-native development,
+and the DevOps side of shipping.
